@@ -1,1 +1,1 @@
-Folder for github workflows.
+Folder for storing github workflows.
